@@ -9,6 +9,8 @@ The simulation is made using **Unity** and the script is written in **C#** progr
 
 There are 4 states in the game to represent different situation of traffic. Within each scenario there are 3 forms of camera placement being a top down view of the crowss jucntion, a corner camer with a wide view of the juction and a free roaming camera which can be moved around by using the “W”,”A”,”S” and “D” key.
 
+![Top down View](https://imgur.com/Ft6ZSYG)
+
 1. **Normal Case**
 
   In this normal case, the users are able to observe the overview of the traffic light control system, how it will react when vehicles on the lane, how the system change the lane of the green light and etc. The simulation will show the normal case with minimum number of anomalies such as skipping lanes, no vehicles on the road, or etc.
