@@ -9,7 +9,7 @@ The simulation is made using **Unity** and the script is written in **C#** progr
 
 There are 4 states in the game to represent different situation of traffic. Within each scenario there are 3 forms of camera placement being a top down view of the crowss jucntion, a corner camer with a wide view of the juction and a free roaming camera which can be moved around by using the “W”,”A”,”S” and “D” key.
 
-![Top down View](https://imgur.com/Ft6ZSYG)
+![Top down View](https://i.imgur.com/Ft6ZSYG.jpg)
 
 1. **Normal Case**
 
